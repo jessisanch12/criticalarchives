@@ -128,7 +128,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="1">October 25, 2018 (Unit 2)</th>
-    <td> Humanities Media Project Proposal Work Day.</td>
+    <td> Humanities Media Project Proposal Work Day (no class).</td>
     <td rowspan="1"> </td>
     <td rowspan="1"> None. </td>
   </tr>
@@ -136,7 +136,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="6">November 1, 2018 (Unit 3)</th>
     <td> 1. <a href="https://amphilsoc.org/library/protocols-for-indigenous-materials"> American Philosophical Society, “Protocols for the treatment of indigenous materials” (2013).</a></td>
-    <td rowspan="6"><a href="https://mas.arizona.edu/user/patrisia-gonzales">Guest Speaker: Dr. Mario Garza and María Rocha
+    <td rowspan="6"><a href="https://liberalarts.utexas.edu/nais/events/event.php?id=48350">Guest Speaker: Dr. Mario Garza and María Rocha
 Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. </a> </td>
     <td rowspan="6"> None. </td>
   </tr>
@@ -149,17 +149,17 @@ Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. <
   <tr bgcolor="LightGray">
     <td align="left">4. Joshua A. Bell, Kimberly Christen, and Mark Turin, “After the Return: Digital Repatriation and the Circulation of Indigenous Knowledge Workshop Report,” <i>Museum Worlds: Advances in Research</i> 6 (2013): 195-203.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
   </tr>
- <tr bgcolor="LightGray">
-    <td align="left">5. D.A. Smith, “From Nunavut to Micronesia: Feedback and Description, Visual Repatriation and Online Photographs of Indigenous Peoples,” <i>Partnership: the Canadian Journal of Library and Information Practice and Research</i> 3(1) (2008): 1-19. </td>
+ <tr bgcolor="#EBF5FB">
+    <td align="left">*Optional*: 5. D.A. Smith, “From Nunavut to Micronesia: Feedback and Description, Visual Repatriation and Online Photographs of Indigenous Peoples,” <i>Partnership: the Canadian Journal of Library and Information Practice and Research</i> 3(1) (2008): 1-19. </td>
   </tr>
- <tr bgcolor="LightGray">
-    <td align="left">6. Loriene Roy (Anishinaabe), “Indigenous Cultural Heritage Preservation: A Review Essay with Ideas for the Future,” <i>IFLA journal</i> 41.3 (2015): 192-203. </td>
+ <tr bgcolor="#EBF5FB">
+    <td align="left">*Optional* 6. Loriene Roy (Anishinaabe), “Indigenous Cultural Heritage Preservation: A Review Essay with Ideas for the Future,” <i>IFLA journal</i> 41.3 (2015): 192-203. </td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">November 8, 2018 (Unit 3)</th>
     <td> 1. Jane Anderson and Kim Christen, ‘‘Chuck a Copyright on it’: Dilemmas of Digital Return and the Possibilities for Traditional Knowledge Licenses and Labels,” Museum Anthropology Review 7.1-2 (Spring-Fall 2013):105-126.</td>
-    <td rowspan="5"> Guest Speaker: Patrisia Gonzales </td>
+    <td rowspan="5"><a href="https://liberalarts.utexas.edu/nais/events/event.php?id=48351"> Guest Speaker: Patrisia Gonzales </a></td>
     <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="#EBF5FB">
