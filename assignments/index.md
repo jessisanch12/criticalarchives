@@ -58,11 +58,17 @@ These decisions will be discussed during class, but you may have to continue the
 <a href="#top">Back to top</a>
 
 # Unit 2: Humanities Media Project Proposal 
+## Option 1: the AHPN
 The digital portal to the Archivo Histórico de la Policía Nacional of Guatemala was launched in 2011 as a way to provide public access to the records contained in the AHPN. At the beginning of this unit, we will do an in-class exercise to explore this digital collection and evaluate the interface in terms of access, accessibility, and discoverability. 
 
 LLILAS Benson is remaking the AHPN website in order to improve access to the collection. This creates an opportunity for us to think creatively about what other kinds of features — in addition to better access — might help make this digital collection more meaningful and useful for the multiple audiences affiliated with the archive. 
 
 In this individual assignment, you are asked to write a grant proposal for a multimedia project that would create new paths to engaging with this collection. This could be a crowdsourced metadata project; an art project; a series of videos; or another project of your choice. The outcome of the project should be supplemental to the AHPN web portal in some way. 
+
+## Option 2 (new): Final Project Proposal
+Based on your feedback, we are now including the option to write a proposal based on your plan for your final projects. Because your final projects will not have a budget, this proposal should imagine what a funded version of the project might look like (perhaps something you could implement in the spring), and follow the same guidelines as originally described.
+
+## Guidelines
 
 Your proposal should follow the guidelines for the [Humanities Media Project](https://humanitiesmediaproject.org/call-for-proposals/). ([PDF: in case the website goes down.](../pdf/hmp-proposalGuidelines.pdf)) Your submission should include:
 * A 2-3 page project description and justification (up to 1500 words)
