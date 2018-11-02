@@ -11,6 +11,7 @@ image:
 ---
 
 Living Archive of Aboriginal Languages. Charles Darwin University et al, 2012, http://laal.cdu.edu.au/. Accessed 17 oct. 2018
+
 *Reviewed by Montserrat Madariaga-Caro, Graduate Student, Department of Spanish and Portuguese, University of Texas at Austin*
 
 Simplicity is one of the key words for the Living Archive of Aboriginal Languages. The digital repository contains over 3000 books written in 50 Indigenous languages of the Northern Territory of Australia. This huge number of texts is available through a very easy-to-use interface displaying a clickable geographical map, with icons that redirect the user to the materials. 
