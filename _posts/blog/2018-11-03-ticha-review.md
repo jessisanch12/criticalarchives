@@ -5,7 +5,7 @@ modified:
 categories: blog
 excerpt: "Ticha means language in Zapotec, an indigenous language spoken in Southern Mexico."
 tags: []
-author: Jessica Sánchez Flores
+author: jessicasanchezflores
 image: 
   feature: 
 ---
