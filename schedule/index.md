@@ -134,26 +134,29 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="6">November 1, 2018 (Unit 3)</th>
-    <td> 1. <a href="https://amphilsoc.org/library/protocols-for-indigenous-materials"> American Philosophical Society, “Protocols for the treatment of indigenous materials” (2013).</a></td>
-    <td rowspan="6"><a href="https://liberalarts.utexas.edu/nais/events/event.php?id=48350">Guest Speaker: Dr. Mario Garza and María Rocha
+    <th rowspan="7">November 1, 2018 (Unit 3)</th>
+    <td> 1. <a href="https://www.amphilsoc.org/sites/default/files/2017-06/attachments/CNAIR%20Protocols.pdf"> American Philosophical Society, “Protocols for the treatment of indigenous materials” (2013).</a></td>
+    <td rowspan="7"><a href="https://liberalarts.utexas.edu/nais/events/event.php?id=48350">Guest Speaker: Dr. Mario Garza and María Rocha
 Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. </a> </td>
-    <td rowspan="6"> None. </td>
+    <td rowspan="7"> None. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">2. Eric Hemenway (Little Traverse Bay Bands of Odawa Indians), “Trials and tribulations in a tribal NAGPRA program,” <a>Museum Anthropology</a> 33.2 (2010): 172-179. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. Willie Ermine (Cree), “Ethical Space of Engagement,” <i>Indigenous Law Journal</i> 6.1 (2007): 193-203. </td>
+    <td align="left">3. Joshua A. Bell, Kimberly Christen, and Mark Turin, “After the Return: Digital Repatriation and the Circulation of Indigenous Knowledge Workshop Report,” <i>Museum Worlds: Advances in Research</i> 6 (2013): 195-203. Philadelphia: University of Pennsylvania Press, 2016.</td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">4. Joshua A. Bell, Kimberly Christen, and Mark Turin, “After the Return: Digital Repatriation and the Circulation of Indigenous Knowledge Workshop Report,” <i>Museum Worlds: Advances in Research</i> 6 (2013): 195-203.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
+    <td align="left"><a href="http://jces.ua.edu/taking-a-stand-community-engaged-scholarship-on-the-tenure-track/">NEW: 4. Kevin Michael Foster, “Taking a Stand: Community-Engaged Scholarship on the Tenure Track,” <i>Journal of Community Engagement and Scholarship </i> June 19 2012. Philadelphia: University of Pennsylvania Press, 2016.</a></td>
   </tr>
- <tr bgcolor="#EBF5FB">
-    <td align="left">*Optional*: 5. D.A. Smith, “From Nunavut to Micronesia: Feedback and Description, Visual Repatriation and Online Photographs of Indigenous Peoples,” <i>Partnership: the Canadian Journal of Library and Information Practice and Research</i> 3(1) (2008): 1-19. </td>
+  <tr bgcolor="#E8E8E8">
+    <td align="left">*Optional*: 5. Willie Ermine (Cree), “Ethical Space of Engagement,” <i>Indigenous Law Journal</i> 6.1 (2007): 193-203. </td>
   </tr>
- <tr bgcolor="#EBF5FB">
-    <td align="left">*Optional* 6. Loriene Roy (Anishinaabe), “Indigenous Cultural Heritage Preservation: A Review Essay with Ideas for the Future,” <i>IFLA journal</i> 41.3 (2015): 192-203. </td>
+ <tr bgcolor="#E8E8E8">
+    <td align="left">*Optional*: 6. D.A. Smith, “From Nunavut to Micronesia: Feedback and Description, Visual Repatriation and Online Photographs of Indigenous Peoples,” <i>Partnership: the Canadian Journal of Library and Information Practice and Research</i> 3(1) (2008): 1-19. </td>
+  </tr>
+ <tr bgcolor="#E8E8E8">
+    <td align="left">*Optional*: 7. Loriene Roy (Anishinaabe), “Indigenous Cultural Heritage Preservation: A Review Essay with Ideas for the Future,” <i>IFLA journal</i> 41.3 (2015): 192-203. </td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
