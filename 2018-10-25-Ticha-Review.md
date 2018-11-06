@@ -3,7 +3,7 @@ layout: post
 title: "Review of the Ticha Project"
 modified:
 categories: blog
-excerpt: "Ticha means language in Zapotec, an indigenous language spoken in Southern Mexico."
+excerpt: "Ticha is empowering the Zapotec community through the availability and accessibility of colonial texts that strengthen their language and their culture."
 tags: []
 author: Jessica Sánchez Flores
 image: 
