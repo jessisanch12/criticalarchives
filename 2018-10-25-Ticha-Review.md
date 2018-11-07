@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review of the Ticha Project"
-modified:
+modified: 2018-9-7
 categories: blog
 excerpt: "Ticha is empowering the Zapotec community through the availability and accessibility of colonial texts that strengthen their language and their culture."
 tags: []
