@@ -28,7 +28,7 @@ Este archivo digitalizado llamado *Sharing 'Gabo' with the World: Building the G
 Debido a esta tecnología, el ususario puede ver, por ejemplo, como García Márquez va re-versionando su propio trabajo hasta el producto final y descubrir cómo lo editaba, por ejemplo.
 
 
-Adicionalmente, *"Mirador"* [https://norman.hrc.utexas.edu/mirador/p15878coll73/3649](https://norman.hrc.utexas.edu/mirador/p15878coll73/3649) funciona gracias a una interface que permite que estas imágenes del archivo estén disponibles en una red internacional de colecciones digitales.
+Adicionalmente, [*"Mirador"*](https://norman.hrc.utexas.edu/mirador/p15878coll73/3649) funciona gracias a una interface que permite que estas imágenes del archivo estén disponibles en una red internacional de colecciones digitales.
 
 Es decir que no sólo el mundo tiene acceso al archivo sino que esta plataforma con estas herramientas le permite al usuario revisar, comparar, visualizar y navegar el archivo de una manera particular que puede ser útil para muchas personas.  
 
@@ -62,7 +62,7 @@ Como consecuencia, el archivo se convirtió en algo etéreo porque está en el a
 
 El archivo dejó de tener propiedad aunque legalmente la tenga. La autoridad del archivo fue trasladada a otro sujeto y a otro espacio y a muchos sujetos y a muchos espacios.
 
-###**Las preguntas sin respuesta:**
+### **Las preguntas sin respuesta:**
 
 
 Cuando se discutió este tema sobre el destino de los archivos del premio Nobel muchas preguntas salieron al debate público, especialmente en Colombia: ¿Hizo el gobierno colombiano lo necesario para quedarse con los archivos?  ¿Podría invertir el gobierno o alguien en Colombia 2,2 millones de dólares para la adquisición de este material? ¿Por qué el gobierno colombiano permitió que se llevaran esos archivos?  ¿Si estuviese en Colombia se hubiesen preservado de la misma forma? ¿Se hubiesen digitalizado los archivos?
