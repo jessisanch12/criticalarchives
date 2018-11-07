@@ -108,7 +108,8 @@ Decide what kinds of resources will help address the need you have identified. P
 * Propose concrete solutions for dealing with the access issues you identify
 
 *Propose and Attempt Meaningful Contact with Target Audience*  
-<span style="color:blue"> Update November 2018: In the first assignment, you learned that collaborative work requires contact and consultation very early in the design process. Given the scope of your project, we're asking you to attempt to consult with the community in the planning of your project.</span>
+<span style="color:blue"> Update November 2018: In the first assignment, you learned that collaborative work requires contact and consultation very early in the design process. Given the scope of your project, we're asking you to attempt to consult with the community in the planning of your project.</span>  
+
 This is where you will have to get creative. ~~Do you want to host a workshop? Do a poster session for a public audience at LLILAS-Benson? Do a talk at the Austin Library? Visit undergraduate classes? Reach out to tribal members? Disseminate your work among other colleagues that may be interested in your project? Make a video? Pass out a Zine to random strangers on campus?~~ The last day of class can be used to host a workshop or colloquium, otherwise we will have an informal roundtable to discuss the projects. Note the word “attempt” - your grade does not hinge on a successful workshop or tribal members being willing to talk/work with you. In other words, you are responsible for the effort, not the outcome.  
 
 *Proposal Requirements (for November 18th)*  
