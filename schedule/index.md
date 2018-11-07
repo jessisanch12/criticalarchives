@@ -200,8 +200,8 @@ Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. <
   <tr bgcolor="LightGray">
     <td align="left">4. Anthony Cocciolo, “Community Archives in the Digital Era: A Case from the LGBT Community,” <i>Preservation, Digital Technology and Culture</i> 45, no. 4 (2017): 157-165.</td>
   </tr>
-  <tr bgcolor="LightGray">
-    <td align="left">5. Steven High, “Telling Stories: A Reflection on Oral History and New Media,” <i>Oral History</i> 38, no. 1 (2010): 101-112.</td>
+  <tr bgcolor="E8E8E8">
+    <td align="left">5. OPTIONAL: Steven High, “Telling Stories: A Reflection on Oral History and New Media,” <i>Oral History</i> 38, no. 1 (2010): 101-112.</td>
   </tr>
 
   <tr bgcolor="LightGray">
