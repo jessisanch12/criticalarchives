@@ -1,6 +1,6 @@
 ---
 Layout: post
-title: "Los Archivos de Gabriel García Máquez: una Relación Polémica."
+title: "Los Archivos de Gabriel García Márquez: una Relación Polémica."
 modified:
 categories: blog
 excerpt: 
@@ -8,7 +8,7 @@ author: YenibelRuiz
 image:
   feature:
 ---
-# Gabriel García Márquez.  Harry Ransom Center.  The University of Texas. Web. 16 de Octubre 2018.   [https://hrc.contentdm.oclc.org/digital/collection/p15878coll51/](https://hrc.contentdm.oclc.org/digital/collection/p15878coll51/)
+Gabriel García Márquez.  Harry Ransom Center.  The University of Texas. Web. 16 de Octubre 2018.   [https://hrc.contentdm.oclc.org/digital/collection/p15878coll51/](https://hrc.contentdm.oclc.org/digital/collection/p15878coll51/)
 
 Así de extraño como el nacimiento del último de los Buendía que nació con una cola de cerdo en la famosa novela *100 años de Soledad* del colombiano Gabriel García Márquez, es extraño para muchos de sus paisanos que el archivo privado de este escritor, premio Nobel de literatura 1982, repose en el [Centro de Archivos Harry Ransom Center](http://www.hrc.utexas.edu/) en la Universidad de Texas en Austin, en los Estados Unidos. País que vetó por muchos años al escritor por la relación de éste con Fidel Castro y por ser catalogado por muchos como comunista.
 
