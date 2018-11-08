@@ -189,7 +189,7 @@ Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. <
     <th rowspan="5">November 15, 2018 (Unit 3)</th>
     <td> 1. Williams, Stacie M. and Jarrett M. Drake, “Power to the People: Documenting Police Violence in Cleveland,” in “Critical Archival Studies,” eds. Michelle Caswell, Ricardo Punzalan, and T-Kay Sangwand, Special issue, <i>Journal of Critical Library and Information Studies</i> 1, no. 2 (2017): 1-27.</td>
     <td rowspan="5"> Guest Speaker: Itza Carbajal, LLILAS Benson Metadata Librarian </td>
-    <td rowspan="5" bgcolor="#FFDEEB">  Final Project Proposals due by 5pm. </td>
+    <td rowspan="5">   </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"><a href="https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae">2. Jarrett M. Drake, “Seismic Shifts: On Archival Fact and Fictions,” <i>medium.com.</i> August 20, 2018. </a></td>
@@ -202,6 +202,13 @@ Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. <
   </tr>
   <tr bgcolor="E8E8E8">
     <td align="left">5. OPTIONAL: Steven High, “Telling Stories: A Reflection on Oral History and New Media,” <i>Oral History</i> 38, no. 1 (2010): 101-112.</td>
+  </tr>
+
+  <tr bgcolor="LightGray">
+    <th rowspan="1">November 18, 2018</th>
+    <td> </td>
+    <td rowspan="1"> </td>
+    <td rowspan="1" bgcolor="#FFDEEB"> Final Project Proposals due by 5pm. </td>
   </tr>
 
   <tr bgcolor="LightGray">
