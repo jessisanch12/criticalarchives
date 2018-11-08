@@ -204,12 +204,9 @@ Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. <
     <td align="left">5. OPTIONAL: Steven High, “Telling Stories: A Reflection on Oral History and New Media,” <i>Oral History</i> 38, no. 1 (2010): 101-112.</td>
   </tr>
 
-  <tr bgcolor="LightGray">
+  <tr bgcolor="#FFDEEB">
     <th rowspan="1">November 18, 2018</th>
-    <td> </td>
-    <td rowspan="1"> </td>
-    <td rowspan="1" bgcolor="#FFDEEB"> Final Project Proposals due by 5pm. </td>
-  </tr>
+    <td colspan="3"> Final Project Proposals due by 5pm. </td>
 
   <tr bgcolor="LightGray">
     <th rowspan="1">November 22, 2018</th>
