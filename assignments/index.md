@@ -87,7 +87,7 @@ In the Final Project you will demonstrate mastery of concepts studied and skills
 
 * Identify a research need (broadly defined) for a specific community 
 * Identify a manageable set of materials to help address this need
-* Produce an 800-1000 word scholarly critical introduction, in the format of your own choosing to the resource you have developed
+* Produce an 800-1000 word scholarly critical introduction, in the format of your own choosing, to the resource you have developed
 * Propose and attempt meaningful contact with your target audience  
 
 These parameters of the Final Project are intentionally broad, as we want you to create something that you are excited about and that will be useful to you as a scholar-teacher. To make things even more interesting, the project can be completed as a large- or small-group collaboration (we’ll give some suggestions as to what that would look like), or you can work individually. *You will turn in a brief proposal in class on November 18 (see instructions at the end of this document).*  
@@ -108,7 +108,9 @@ Decide what kinds of resources will help address the need you have identified. P
 * Propose concrete solutions for dealing with the access issues you identify
 
 *Propose and Attempt Meaningful Contact with Target Audience*  
-This is where you will have to get creative. Do you want to host a workshop? Do a poster session for a public audience at LLILAS-Benson? Do a talk at the Austin Library? Visit undergraduate classes? Reach out to tribal members? Disseminate your work among other colleagues that may be interested in your project? Make a video? Pass out a Zine to random strangers on campus? The last day of class can be used to host a workshop or colloquium, otherwise we will have an informal roundtable to discuss the projects. Note the word “attempt” - your grade does not hinge on a successful workshop or tribal members being willing to talk/work with you. In other words, you are responsible for the effort, not the outcome.  
+<span style="color:blue"> Update November 2018: In the first assignment, you learned that collaborative work requires contact and consultation very early in the design process. Given the scope of your project, we're asking you to attempt to consult with the community in the planning of your project.</span>  
+
+This is where you will have to get creative. ~~Do you want to host a workshop? Do a poster session for a public audience at LLILAS-Benson? Do a talk at the Austin Library? Visit undergraduate classes? Reach out to tribal members? Disseminate your work among other colleagues that may be interested in your project? Make a video? Pass out a Zine to random strangers on campus?~~ The last day of class can be used to host a workshop or colloquium, otherwise we will have an informal roundtable to discuss the projects. Note the word “attempt” - your grade does not hinge on a successful workshop or tribal members being willing to talk/work with you. In other words, you are responsible for the effort, not the outcome.  
 
 *Proposal Requirements (for November 18th)*  
 Your brief answers to these questions are not set in stone. They can and most likely will change over the course of further contemplation and research. We just want to know that you are on the right track and to be able to give you helpful suggestions.
